@@ -213,7 +213,7 @@ An AI-powered web application that predicts loan approval status using Machine L
 
 ### Repository
 
-> Update with your repository link.
+>[https://github.com/Siri-9015/loan_approval_system]
 
 </details>
 
@@ -245,7 +245,7 @@ A civic issue reporting platform that enables citizens to report environmental a
 
 ### Repository
 
-> Update with your repository link.
+> [https://github.com/springboardmentor211/CleanStreet_Group1]
 
 </details>
 
@@ -276,7 +276,7 @@ An AI-powered document assistant capable of answering questions from uploaded do
 
 ### Repository
 
-> Update with your repository link.
+> [https://github.com/Siri-9015/SEFS]
 
 </details>
 
