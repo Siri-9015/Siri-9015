@@ -47,7 +47,7 @@
   </a>
   &nbsp;
   <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    <img src="https://portfolioassignment01.netlify.app/style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
 
