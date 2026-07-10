@@ -3,25 +3,29 @@
 <!--         Dark Luxury · Purple / Indigo / Violet Theme               -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════════════════════ 1. ANIMATED HEADER ═══════════════════════════════ -->
+<!-- ═══════════════════════ 🎨 CAPSULE RENDER HEADER ═══════════════════════ -->
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1e1b4b,25:312e81,50:4c1d95,75:6d28d9,100:7c3aed&text=Likhitha%20Siri%20Meghana%20Killani&fontColor=e0e7ff&fontSize=45&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=55&descSize=18&animation=fadeIn"/>
 </p>
 
+<!-- ═══════════════════════ ⌨️ TYPING SVG ═══════════════════════ -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=Engineering+Scalable+Software+%7C+Building+Intelligent+Systems;Full+Stack+Development+%7C+AI+%26+Machine+Learning+%7C+Cloud+Architecture"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=Engineering+Scalable+Software+%7C+Building+Intelligent+Systems;AI+%26+Machine+Learning+%7C+Full+Stack+Development+%7C+Cloud+Architecture"/>
 </p>
+
+<!-- ═══════════════════════ 🏅 PROFESSIONAL BADGES ═══════════════════════ -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20Engineering-4c1d95?style=flat-square&labelColor=1e1b4b"/>
   &nbsp;
   <img src="https://img.shields.io/badge/CGPA-8.1%20%2F%2010-7c3aed?style=flat-square&labelColor=1e1b4b"/>
   &nbsp;
+  <img src="https://img.shields.io/badge/Google%20Cloud-Learner-4285F4?style=flat-square&logo=googlecloud&logoColor=white&labelColor=1e1b4b"/>
+  &nbsp;
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-6d28d9?style=flat-square&labelColor=1e1b4b"/>
-</p>
-
-<p align="center">
+  &nbsp;
   <img src="https://img.shields.io/badge/%F0%9F%93%8D_Hyderabad%2C_India-1e1b4b?style=flat-square"/>
 </p>
 
@@ -53,44 +57,42 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════ 2. ABOUT ═══════════════════════════════ -->
+<!-- ═══════════════════════ 👨‍💻 PROFESSIONAL SUMMARY ═══════════════════════ -->
 
-## `> whoami`
+## Professional Summary
 
 ```text
-Software Engineer focused on building intelligent, scalable, production-grade systems.
+Passionate about building intelligent software that solves real-world problems.
 ```
 
-I am a **Computer Science Engineering** undergraduate with deep focus across **Software Engineering**, **AI/ML**, and **Full Stack Development**. I design and build end-to-end applications — from responsive frontend interfaces and high-performance REST APIs to machine learning pipelines and cloud-deployed services.
+I am a **Computer Science Engineering student** with a strong foundation in **Software Engineering, Artificial Intelligence, Machine Learning, Full Stack Development, and Cloud Technologies**.
 
-My engineering philosophy centers on writing clean, maintainable code that solves real problems at scale. I approach every project with a **product engineering mindset** — considering architecture, performance, security, and user experience as first-class concerns.
+I design scalable applications, build intelligent backend systems, and develop end-to-end software solutions that combine performance, maintainability, and excellent user experience. My engineering philosophy centers on writing clean, production-grade code with a **product engineering mindset** — treating architecture, performance, security, and UX as first-class concerns.
 
-**Core competencies:** Software Architecture · AI/ML Systems · Full Stack Development · API Design · Cloud Infrastructure · Data Engineering
+My goal is to become a **Software Engineer** specializing in AI-powered applications while contributing to impactful products and open-source communities.
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════ 🚀 WHAT I'M WORKING ON ═══════════════════════ -->
+
+## What I'm Working On
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Open To
-
-- Software Engineering Internships (Backend / Full Stack)
-- AI / Machine Learning Engineering Roles
-- Open Source Collaboration & Maintainership
-- Hackathons & Technical Communities
-- Research Partnerships in Applied AI
+- 🤖 Building AI-powered software applications
+- 🌐 Developing Full Stack Web Applications
+- ⚡ Building REST APIs using FastAPI
+- ☁️ Learning Google Cloud Platform
 
 </td>
 <td width="50%" valign="top">
 
-### Currently Building
-
-- AI-Powered Production Applications
-- Full Stack Web Platforms (React + FastAPI)
-- Machine Learning Pipelines
-- Cloud-Native Microservices
-- Developer Tools & Automation
+- 📊 Machine Learning Projects
+- 💻 Solving Data Structures & Algorithms problems
+- 🚀 Improving System Design knowledge
+- 🌱 Exploring Large Language Models (LLMs)
 
 </td>
 </tr>
@@ -98,14 +100,36 @@ My engineering philosophy centers on writing clean, maintainable code that solve
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════ 3. TECH STACK ═══════════════════════════════ -->
+<!-- ═══════════════════════ 🎯 LOOKING FOR ═══════════════════════ -->
+
+## Looking For
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Software_Engineering_Internship-4c1d95?style=for-the-badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/AI_%2F_ML_Internship-312e81?style=for-the-badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Backend_Development-4c1d95?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full_Stack_Roles-6d28d9?style=for-the-badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open_Source_Collaboration-7c3aed?style=for-the-badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Hackathons_%26_Communities-8b5cf6?style=for-the-badge"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════ 💻 TECH STACK ═══════════════════════ -->
 
 ## Tech Stack
 
 ### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,sql&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,c&theme=dark"/>
 </p>
 
 ### Frontend
@@ -128,55 +152,27 @@ My engineering philosophy centers on writing clean, maintainable code that solve
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════ 4. AI / ML EXPERTISE ═══════════════════════════════ -->
+<!-- ═══════════════════════ 🤖 AI & SOFTWARE ENGINEERING EXPERTISE ═══════════════════════ -->
 
-## AI / ML Expertise
+## AI & Software Engineering Expertise
 
-<table>
-<thead>
-<tr>
-<th align="left">Domain</th>
-<th align="center">Proficiency</th>
-<th align="left">Details</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><b>Machine Learning</b></td>
-<td align="center">██████████ 95%</td>
-<td>Supervised & Unsupervised Learning, Classification, Regression, Ensemble Methods, Model Evaluation & Tuning</td>
-</tr>
-<tr>
-<td><b>Deep Learning</b></td>
-<td align="center">████████░░ 80%</td>
-<td>Neural Networks, CNNs, Transfer Learning, Model Optimization</td>
-</tr>
-<tr>
-<td><b>NLP & LLMs</b></td>
-<td align="center">███████░░░ 75%</td>
-<td>Sentence Transformers, RAG Pipelines, Semantic Search, Vector Databases, FAISS</td>
-</tr>
-<tr>
-<td><b>Data Engineering</b></td>
-<td align="center">█████████░ 90%</td>
-<td>Data Cleaning, EDA, Feature Engineering, Data Visualization, Pandas, NumPy</td>
-</tr>
-<tr>
-<td><b>ML Frameworks</b></td>
-<td align="center">█████████░ 88%</td>
-<td>Scikit-learn, Streamlit, FAISS, Hugging Face Transformers</td>
-</tr>
-<tr>
-<td><b>MLOps</b></td>
-<td align="center">██████░░░░ 65%</td>
-<td>Model Deployment, REST API Serving, Cloud Inference Endpoints</td>
-</tr>
-</tbody>
-</table>
+| Domain | Details |
+|:-------|:--------|
+| **Machine Learning** | Supervised Learning, Classification, Regression, Model Evaluation, Ensemble Methods |
+| **Data Analysis** | Data Cleaning, Exploratory Data Analysis (EDA), Feature Engineering, Data Visualization |
+| **Model Development** | Scikit-learn, Random Forest, Decision Trees, Logistic Regression, Hyperparameter Tuning |
+| **NLP & LLMs** | Sentence Transformers, RAG Pipelines, Semantic Search, Vector Databases, FAISS |
+| **Backend Development** | FastAPI, REST APIs, Python Backend Development, Async Architecture |
+| **Full Stack Development** | React, Next.js, Python, JavaScript, TypeScript, API Integration |
+| **Databases** | MySQL, MongoDB, PostgreSQL, SQLite, Schema Design |
+| **Cloud Technologies** | Google Cloud Platform (GCP), Cloud Fundamentals, Serverless |
+| **Software Engineering** | OOP, REST APIs, Git, GitHub, Debugging, Code Review, Agile |
+| **Core Computer Science** | Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks |
+| **Currently Exploring** | Generative AI, Large Language Models, Agentic AI, Cloud-Native Applications |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════ 5. FEATURED PROJECTS ═══════════════════════════════ -->
+<!-- ═══════════════════════ 📂 FEATURED ENGINEERING PROJECTS ═══════════════════════ -->
 
 ## Featured Engineering Projects
 
@@ -195,7 +191,7 @@ An end-to-end **machine learning application** that automates loan approval deci
 | **Performance** | Sub-200ms inference latency per prediction |
 | **Impact** | Demonstrates full ML lifecycle — data → model → deployment → UI |
 
-**Technical Highlights:**
+**Key Features:**
 - Implemented end-to-end ML pipeline: data ingestion → cleaning → feature engineering → model training → evaluation → deployment
 - Built production FastAPI backend with structured request/response schemas and input validation
 - Designed responsive frontend interface for real-time loan eligibility assessment
@@ -226,7 +222,7 @@ An **AI-powered document assistant** that enables semantic question-answering ov
 | **Search** | Cosine similarity-based semantic retrieval |
 | **Impact** | Enterprise-grade document intelligence for knowledge extraction |
 
-**Technical Highlights:**
+**Key Features:**
 - Designed RAG pipeline with document chunking, embedding generation, and vector indexing
 - Implemented FAISS-based vector database for millisecond-latency semantic search
 - Built Streamlit interface for drag-and-drop document upload and interactive Q&A
@@ -257,7 +253,7 @@ A **full-stack civic technology platform** that digitizes urban issue reporting,
 | **Security** | Input validation, session management, role-based authorization |
 | **Impact** | Smart City solution improving citizen-authority communication |
 
-**Technical Highlights:**
+**Key Features:**
 - Engineered dual-portal system: citizen complaint submission + admin management dashboard
 - Implemented real-time issue status tracking with notification updates
 - Designed database schema for scalable complaint categorization and routing
@@ -288,7 +284,7 @@ A **responsive web application** showcasing advanced frontend engineering with C
 | **Performance** | Lightweight — zero framework overhead |
 | **Impact** | Demonstrates advanced CSS animation and UI engineering |
 
-**Technical Highlights:**
+**Key Features:**
 - Crafted fluid CSS animations with keyframe orchestration and staggered transitions
 - Implemented interactive recipe step navigation with JavaScript state management
 - Built fully responsive layout adaptable from mobile to ultrawide displays
@@ -304,22 +300,26 @@ A **responsive web application** showcasing advanced frontend engineering with C
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════ 6. EXPERIENCE ═══════════════════════════════ -->
+<!-- ═══════════════════════ 🌱 ENGINEERING JOURNEY ═══════════════════════ -->
 
-## Experience
+## Engineering Journey
 
-### 🎓 Computer Science Engineering Student
+### Computer Science Engineering Student
 
-**Undergraduate Program** &nbsp;·&nbsp; `2023 – Present`
+**`2023 – Present`**
 
-Pursuing a B.Tech in Computer Science Engineering with focus on software systems, artificial intelligence, and full-stack development. Maintaining a **CGPA of 8.1/10** while building production-quality projects and contributing to open-source.
+Throughout my academic journey, I have focused on developing practical software solutions while strengthening my understanding of software engineering principles and modern development practices.
 
-**Scope of Work:**
-- Designed and deployed AI/ML applications including loan prediction systems and RAG-based document Q&A
-- Engineered full-stack web applications with React frontends and FastAPI/Node.js backends
-- Developed REST APIs serving machine learning model inferences in production environments
-- Collaborated on team projects (CleanStreet) using Git workflows and agile development practices
-- Completed certifications across Google Cloud, NPTEL, Cisco, and Infosys Springboard
+**Highlights:**
+
+- 🔹 Built AI-powered applications with end-to-end ML pipelines
+- 🔹 Developed Machine Learning models for real-world prediction tasks
+- 🔹 Designed REST APIs using FastAPI for production deployment
+- 🔹 Built responsive full-stack web applications
+- 🔹 Worked with Google Cloud fundamentals and cloud services
+- 🔹 Practiced Git & GitHub workflows with collaborative development
+- 🔹 Solved Data Structures & Algorithms problems on competitive platforms
+- 🔹 Participated in technical workshops and hackathons
 
 <p>
   <img src="https://img.shields.io/badge/Software_Engineering-4c1d95?style=flat-square"/>
@@ -327,31 +327,41 @@ Pursuing a B.Tech in Computer Science Engineering with focus on software systems
   <img src="https://img.shields.io/badge/Full_Stack-7c3aed?style=flat-square"/>
   <img src="https://img.shields.io/badge/Cloud-8b5cf6?style=flat-square"/>
   <img src="https://img.shields.io/badge/REST_APIs-a78bfa?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Data_Structures-c4b5fd?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DSA-c4b5fd?style=flat-square"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════ 7. ACHIEVEMENTS ═══════════════════════════════ -->
+<!-- ═══════════════════════ 🧠 TECHNICAL INTERESTS ═══════════════════════ -->
 
-## Achievements
+## Technical Interests
 
-<p align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Recognition | Details |
-|:-----------:|:--------|
-| 🏆 **AI/ML Project Development** | Built end-to-end machine learning pipelines from data preprocessing to production API deployment |
-| 🏆 **RAG Architecture Implementation** | Designed retrieval-augmented generation systems using FAISS and Sentence Transformers |
-| 🏆 **Smart City Innovation** | Co-developed CleanStreet civic issue platform as a Smart City solution |
-| 🏆 **Multi-Certification Holder** | Earned certifications from Google Cloud, NPTEL, Cisco, and Infosys Springboard |
-| 🏆 **Open Source Contributor** | Active contributor to open-source projects and collaborative development |
-| 🏆 **Academic Excellence** | Maintaining 8.1 CGPA in Computer Science Engineering |
+- 🔬 Artificial Intelligence
+- 🧠 Machine Learning
+- 🌐 Full Stack Development
+- ⚙️ Backend Engineering
+- ☁️ Cloud Computing
 
-</p>
+</td>
+<td width="50%" valign="top">
+
+- 🏗️ Software Architecture
+- 🔌 REST API Development
+- 📊 Data Analytics
+- 🌍 Open Source Software
+- 🧩 Problem Solving
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════ 8. CERTIFICATIONS ═══════════════════════════════ -->
+<!-- ═══════════════════════ 📜 CERTIFICATIONS ═══════════════════════ -->
 
 ## Certifications
 
@@ -385,7 +395,7 @@ Pursuing a B.Tech in Computer Science Engineering with focus on software systems
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════ 9. CODING PROFILES ═══════════════════════════════ -->
+<!-- ═══════════════════════ 💯 CODING PROFILES ═══════════════════════ -->
 
 ## Coding Profiles
 
@@ -409,7 +419,7 @@ Pursuing a B.Tech in Computer Science Engineering with focus on software systems
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════ 10. GITHUB ANALYTICS ═══════════════════════════════ -->
+<!-- ═══════════════════════ 📊 GITHUB ANALYTICS ═══════════════════════ -->
 
 ## GitHub Analytics
 
@@ -425,7 +435,7 @@ Pursuing a B.Tech in Computer Science Engineering with focus on software systems
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════ 11. GITHUB TROPHIES ═══════════════════════════════ -->
+<!-- ═══════════════════════ 🏆 GITHUB TROPHIES ═══════════════════════ -->
 
 ## GitHub Trophies
 
@@ -435,7 +445,7 @@ Pursuing a B.Tech in Computer Science Engineering with focus on software systems
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════ 12. CONTRIBUTION ACTIVITY ═══════════════════════════════ -->
+<!-- ═══════════════════════ 📈 CONTRIBUTION GRAPH ═══════════════════════ -->
 
 ## Contribution Activity
 
@@ -445,7 +455,7 @@ Pursuing a B.Tech in Computer Science Engineering with focus on software systems
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════ 13. CONTRIBUTION SNAKE ═══════════════════════════════ -->
+<!-- ═══════════════════════ 🐍 SNAKE ANIMATION ═══════════════════════ -->
 
 ## Contribution Snake
 
@@ -455,43 +465,54 @@ Pursuing a B.Tech in Computer Science Engineering with focus on software systems
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════ 14. CURRENT FOCUS ═══════════════════════════════ -->
+<!-- ═══════════════════════ 📌 CURRENT FOCUS ═══════════════════════ -->
 
 ## Current Focus
 
 ```yaml
 Learning:
-  - Advanced Data Structures & Algorithms
+  - Advanced Java & Design Patterns
   - Machine Learning & Deep Learning
   - Google Cloud Platform (GCP)
   - System Design & Software Architecture
-  - Large Language Models (LLMs)
+  - Data Structures & Algorithms
 
 Building:
   - AI-Powered Production Applications
-  - Full Stack Platforms (React + FastAPI)
-  - REST API Microservices
-  - ML Model Deployment Pipelines
+  - Full Stack Web Applications (React + FastAPI)
+  - FastAPI REST API Microservices
+  - Machine Learning Prediction Pipelines
 
 Exploring:
-  - Generative AI & Foundation Models
+  - Large Language Models (LLMs)
   - Agentic AI & Autonomous Systems
-  - Cloud-Native Application Architecture
-  - Open Source Maintainership
+  - Cloud-Native Development
+  - Open Source Contributions
 
 Open To:
-  - Software Engineering Internships
+  - Software Engineering Internship
   - AI / ML Engineering Roles
-  - Full Stack Development Positions
+  - Full Stack Developer Positions
   - Open Source Collaboration
-  - Hackathons & Technical Communities
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════ 15. CONNECT ═══════════════════════════════ -->
+<!-- ═══════════════════════ 🌟 BEYOND CODE ═══════════════════════ -->
 
-## Connect
+## Beyond Code
+
+- 💡 Passionate about solving real-world problems with technology
+- 📚 Enjoy learning emerging AI technologies and software engineering practices
+- 🌍 Believe in continuous learning and open-source collaboration
+- 🧩 Love tackling coding challenges and improving problem-solving skills
+- 🚀 Always excited to explore new frameworks, tools, and cloud technologies
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════ 📬 CONNECT ═══════════════════════ -->
+
+## Let's Connect
 
 <p align="center">
   <a href="mailto:likhithakillani0107@gmail.com">
@@ -513,13 +534,19 @@ Open To:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════ 16. FOOTER ═══════════════════════════════ -->
+<!-- ═══════════════════════ 🌊 PREMIUM FOOTER ═══════════════════════ -->
 
 <p align="center">
-  <i>"Engineering excellence is not a destination — it is a discipline practiced with every commit."</i>
+  <i>"Great software is built through curiosity, continuous learning, and a commitment to solving meaningful problems."</i>
 </p>
 
 <br>
+
+<p align="center">
+
+### ⭐ If you like my work, consider following my GitHub profile!
+
+</p>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:1e1b4b,25:312e81,50:4c1d95,75:6d28d9,100:7c3aed"/>
