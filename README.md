@@ -297,8 +297,7 @@ A **responsive web application** showcasing advanced frontend engineering with C
 ## GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Siri-9015&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed&rank_icon=github" alt="GitHub Stats"/>
-  &nbsp;
+
   <img width="49%" src="https://streak-stats.demolab.com?user=Siri-9015&theme=midnight-purple&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=e0e7ff&sideNums=e0e7ff&dates=6b7280" alt="GitHub Streak"/>
 </p>
 
