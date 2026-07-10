@@ -30,20 +30,24 @@
 </p>
 
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <a href="mailto:likhithakillani0107@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/likhitha-siri-meghana-killani-8a62a8308">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:likhithakillani0107@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
   <a href="https://github.com/Siri-9015">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.kaggle.com/likhithasirimeghana">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
 
@@ -247,10 +251,10 @@ A **full-stack civic technology platform** that digitizes urban issue reporting,
 | Dimension | Details |
 |-----------|---------|
 | **Stack** | HTML · CSS · JavaScript · Python · SQL |
+| **Program** | Developed as part of Infosys Springboard Internship 6.0 |
 | **Architecture** | Client-Server with RESTful communication |
 | **Database** | Relational (SQL-based complaint tracking) |
 | **Scale** | Multi-user platform with role-based access (Citizen / Admin) |
-| **Security** | Input validation, session management, role-based authorization |
 | **Impact** | Smart City solution improving citizen-authority communication |
 
 **Key Features:**
@@ -305,8 +309,7 @@ A **responsive web application** showcasing advanced frontend engineering with C
 ## Engineering Journey
 
 ### Computer Science Engineering Student
-
-**`2023 – Present`**
+**Narsimha Reddy Engineering College** &nbsp;·&nbsp; **`08/2023 – 08/2027`** (Hyderabad, India)
 
 Throughout my academic journey, I have focused on developing practical software solutions while strengthening my understanding of software engineering principles and modern development practices.
 
@@ -365,12 +368,18 @@ Throughout my academic journey, I have focused on developing practical software 
 
 ## Certifications
 
-### Google Cloud
+### Google Cloud & Education
 
 <p>
-  <img src="https://img.shields.io/badge/Google_Cloud-Career_Launchpad-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-Career_Launchpad_--_Cloud_Engine-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Google-Generative_AI_Fundamentals-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_for_Education-Gemini_Certified_Trainer-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+
+### IBM SkillsBuild
+
+<p>
+  <img src="https://img.shields.io/badge/IBM_SkillsBuild-Data_Analysis_with_Python-052D56?style=for-the-badge&logo=ibm&logoColor=white"/>
 </p>
 
 ### NPTEL
@@ -381,16 +390,10 @@ Throughout my academic journey, I have focused on developing practical software 
   <img src="https://img.shields.io/badge/NPTEL-Database_Management_Systems-312e81?style=for-the-badge"/>
 </p>
 
-### Infosys Springboard
+### Workshops & Hackathons
 
 <p>
-  <img src="https://img.shields.io/badge/Infosys_Springboard-Full_Stack_Development-6d28d9?style=for-the-badge"/>
-</p>
-
-### Cisco
-
-<p>
-  <img src="https://img.shields.io/badge/Cisco-Networking_Fundamentals-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_%26_ML_Workshop-Hackathon_Participation-6d28d9?style=for-the-badge"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -525,6 +528,10 @@ Open To:
   &nbsp;&nbsp;
   <a href="https://github.com/Siri-9015">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.kaggle.com/likhithasirimeghana">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
   <a href="#">
