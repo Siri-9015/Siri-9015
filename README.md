@@ -73,33 +73,6 @@ I am a **Computer Science Engineering student** specializing in **Software Engin
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════ 🚀 WHAT I'M WORKING ON ═══════════════════════ -->
-
-## What I'm Working On
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-- 🤖 Building AI-powered software applications
-- 🌐 Developing Full Stack Web Applications
-- ⚡ Building REST APIs using FastAPI
-- ☁️ Learning Google Cloud Platform
-
-</td>
-<td width="50%" valign="top">
-
-- 📊 Machine Learning Projects
-- 💻 Solving Data Structures & Algorithms problems
-- 🚀 Improving System Design knowledge
-- 🌱 Exploring Large Language Models (LLMs)
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <!-- ═══════════════════════ 💼 OPEN TO OPPORTUNITIES ═══════════════════════ -->
 
 ## 💼 Open to Opportunities
@@ -257,65 +230,7 @@ A **responsive web application** showcasing advanced frontend engineering with C
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════ 🌱 ENGINEERING JOURNEY ═══════════════════════ -->
-
-## Engineering Journey
-
-### Computer Science Engineering Student
-**Narsimha Reddy Engineering College** &nbsp;·&nbsp; **`08/2023 – 08/2027`** (Hyderabad, India)
-
-Throughout my academic journey, I have focused on developing practical software solutions while strengthening my understanding of software engineering principles and modern development practices.
-
-**Highlights:**
-
-- 🔹 Built AI-powered applications with end-to-end ML pipelines
-- 🔹 Developed Machine Learning models for real-world prediction tasks
-- 🔹 Designed REST APIs using FastAPI for production deployment
-- 🔹 Built responsive full-stack web applications
-- 🔹 Worked with Google Cloud fundamentals and cloud services
-- 🔹 Practiced Git & GitHub workflows with collaborative development
-- 🔹 Solved Data Structures & Algorithms problems on competitive platforms
-- 🔹 Participated in technical workshops and hackathons
-
-<p>
-  <img src="https://img.shields.io/badge/Software_Engineering-4c1d95?style=flat-square"/>
-  <img src="https://img.shields.io/badge/AI%2FML-6d28d9?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Full_Stack-7c3aed?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Cloud-8b5cf6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/REST_APIs-a78bfa?style=flat-square"/>
-  <img src="https://img.shields.io/badge/DSA-c4b5fd?style=flat-square"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════ 🧠 TECHNICAL INTERESTS ═══════════════════════ -->
-
-## Technical Interests
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-- 🔬 Artificial Intelligence
-- 🧠 Machine Learning
-- 🌐 Full Stack Development
-- ⚙️ Backend Engineering
-- ☁️ Cloud Computing
-
-</td>
-<td width="50%" valign="top">
-
-- 🏗️ Software Architecture
-- 🔌 REST API Development
-- 📊 Data Analytics
-- 🌍 Open Source Software
-- 🧩 Problem Solving
-
-</td>
-</tr>
-</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -387,20 +302,6 @@ Throughout my academic journey, I have focused on developing practical software 
   <img width="49%" src="https://streak-stats.demolab.com?user=Siri-9015&theme=midnight-purple&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=e0e7ff&sideNums=e0e7ff&dates=6b7280" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siri-9015&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Top Languages"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════ 🏆 GITHUB TROPHIES ═══════════════════════ -->
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Siri-9015&theme=discord&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies"/>
-</p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════ 📈 CONTRIBUTION GRAPH ═══════════════════════ -->
@@ -421,50 +322,7 @@ Throughout my academic journey, I have focused on developing practical software 
   <img src="https://raw.githubusercontent.com/Siri-9015/Siri-9015/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════ 📌 CURRENT FOCUS ═══════════════════════ -->
-
-## Current Focus
-
-```yaml
-Learning:
-  - Advanced Java & Design Patterns
-  - Machine Learning & Deep Learning
-  - Google Cloud Platform (GCP)
-  - System Design & Software Architecture
-  - Data Structures & Algorithms
-
-Building:
-  - AI-Powered Production Applications
-  - Full Stack Web Applications (React + FastAPI)
-  - FastAPI REST API Microservices
-  - Machine Learning Prediction Pipelines
-
-Exploring:
-  - Large Language Models (LLMs)
-  - Agentic AI & Autonomous Systems
-  - Cloud-Native Development
-  - Open Source Contributions
-
-Open To:
-  - Software Engineering Internship
-  - AI / ML Engineering Roles
-  - Full Stack Developer Positions
-  - Open Source Collaboration
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════ 🌟 BEYOND CODE ═══════════════════════ -->
-
-## Beyond Code
-
-- 💡 Passionate about solving real-world problems with technology
-- 📚 Enjoy learning emerging AI technologies and software engineering practices
-- 🌍 Believe in continuous learning and open-source collaboration
-- 🧩 Love tackling coding challenges and improving problem-solving skills
-- 🚀 Always excited to explore new frameworks, tools, and cloud technologies
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -489,9 +347,6 @@ Open To:
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
