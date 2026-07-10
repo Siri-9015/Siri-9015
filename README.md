@@ -12,7 +12,7 @@
 <!-- ═══════════════════════ ⌨️ TYPING SVG ═══════════════════════ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=Engineering+Scalable+Software+%7C+Building+Intelligent+Systems;AI+%26+Machine+Learning+%7C+Full+Stack+Development+%7C+Cloud+Architecture"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Engineering+Scalable+Software+%7C+Building+Intelligent+Systems;AI+%26+Machine+Learning+%7C+Full+Stack+Development+%7C+Cloud+Architecture"/>
 </p>
 
 <!-- ═══════════════════════ 🏅 PROFESSIONAL BADGES ═══════════════════════ -->
