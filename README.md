@@ -12,7 +12,7 @@
 <!-- ═══════════════════════ ⌨️ TYPING SVG ═══════════════════════ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Engineering+Scalable+Software+%7C+Building+Intelligent+Systems;AI+%26+Machine+Learning+%7C+Full+Stack+Development+%7C+Cloud+Architecture"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Engineering+Scalable+Software+%7C+Building+Intelligent+Systems;AI+and+ML+%7C+Full+Stack+Development+%7C+Cloud+Architecture"/>
 </p>
 
 <!-- ═══════════════════════ 🏅 PROFESSIONAL BADGES ═══════════════════════ -->
@@ -69,11 +69,7 @@
 Passionate about building intelligent software that solves real-world problems.
 ```
 
-I am a **Computer Science Engineering student** with a strong foundation in **Software Engineering, Artificial Intelligence, Machine Learning, Full Stack Development, and Cloud Technologies**.
-
-I design scalable applications, build intelligent backend systems, and develop end-to-end software solutions that combine performance, maintainability, and excellent user experience. My engineering philosophy centers on writing clean, production-grade code with a **product engineering mindset** — treating architecture, performance, security, and UX as first-class concerns.
-
-My goal is to become a **Software Engineer** specializing in AI-powered applications while contributing to impactful products and open-source communities.
+I am a **Computer Science Engineering student** specializing in **Software Engineering, AI/ML, and Full Stack Development**. I design scalable applications, build intelligent backend systems, and develop end-to-end software solutions with a product engineering mindset. My goal is to engineer high-performance, AI-powered applications that solve real-world problems.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -104,24 +100,12 @@ My goal is to become a **Software Engineer** specializing in AI-powered applicat
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════ 🎯 LOOKING FOR ═══════════════════════ -->
+<!-- ═══════════════════════ 💼 OPEN TO OPPORTUNITIES ═══════════════════════ -->
 
-## Looking For
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Software_Engineering_Internship-4c1d95?style=for-the-badge"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/AI_%2F_ML_Internship-312e81?style=for-the-badge"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Backend_Development-4c1d95?style=for-the-badge"/>
-</p>
+## 💼 Open to Opportunities
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full_Stack_Roles-6d28d9?style=for-the-badge"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open_Source_Collaboration-7c3aed?style=for-the-badge"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Hackathons_%26_Communities-8b5cf6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open_to-Software_Engineering_•_AI%2FML_•_Full_Stack_Internship_Opportunities-7c3aed?style=for-the-badge"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -180,36 +164,7 @@ My goal is to become a **Software Engineer** specializing in AI-powered applicat
 
 ## Featured Engineering Projects
 
-<details>
-<summary><b>&nbsp;🤖&nbsp; Loan Approval Prediction System — AI-Powered Financial Decision Engine</b></summary>
-<br>
 
-An end-to-end **machine learning application** that automates loan approval decisions using ensemble classification algorithms. The system ingests applicant financial data, performs feature engineering, and delivers real-time predictions through a production-grade REST API.
-
-| Dimension | Details |
-|-----------|---------|
-| **Stack** | Python · FastAPI · Scikit-learn · HTML/CSS/JS · SQLite |
-| **ML Model** | Random Forest Classifier with hyperparameter tuning |
-| **Architecture** | RESTful API with async request handling |
-| **Data Pipeline** | Automated preprocessing, imputation, and feature scaling |
-| **Performance** | Sub-200ms inference latency per prediction |
-| **Impact** | Demonstrates full ML lifecycle — data → model → deployment → UI |
-
-**Key Features:**
-- Implemented end-to-end ML pipeline: data ingestion → cleaning → feature engineering → model training → evaluation → deployment
-- Built production FastAPI backend with structured request/response schemas and input validation
-- Designed responsive frontend interface for real-time loan eligibility assessment
-- Achieved robust model accuracy through cross-validation and hyperparameter optimization
-
-<p>
-  <a href="https://github.com/Siri-9015/loan_approval_system">
-    <img src="https://img.shields.io/badge/Repository-loan__approval__system-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-</details>
-
----
 
 <details>
 <summary><b>&nbsp;📄&nbsp; Smart Document Q&A System — RAG-Powered Intelligent Search</b></summary>
@@ -549,11 +504,7 @@ Open To:
 
 <br>
 
-<p align="center">
 
-### ⭐ If you like my work, consider following my GitHub profile!
-
-</p>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:1e1b4b,25:312e81,50:4c1d95,75:6d28d9,100:7c3aed"/>
