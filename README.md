@@ -46,8 +46,8 @@
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="#">
-    <img src="https://portfolioassignment01.netlify.app/style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <a href="https://portfolioassignment01.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-20BEFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
 
