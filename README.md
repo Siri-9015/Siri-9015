@@ -276,7 +276,6 @@ A **responsive web application** showcasing advanced frontend engineering with C
 
 ## Let's Connect
 
-<
 <p align="center">
   <a href="mailto:likhithakillani0107@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -314,33 +313,3 @@ A **responsive web application** showcasing advanced frontend engineering with C
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:1e1b4b,25:312e81,50:4c1d95,75:6d28d9,100:7c3aed"/>
 </p>
-<!-- ═══════════════════════ 💼 OPEN TO OPPORTUNITIES ═══════════════════════ -->
-
-## 💼 Open to Opportunities
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open_to-Software_Engineering_•_AI%2FML_•_Full_Stack_Internship_Opportunities-7c3aed?style=for-the-badge"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
-<!-- ═══════════════════════ 🤖 AI & SOFTWARE ENGINEERING EXPERTISE ═══════════════════════ -->
-
-## AI & Software Engineering Expertise
-
-| Domain | Details |
-|:-------|:--------|
-| **Machine Learning** | Supervised Learning, Classification, Regression, Model Evaluation, Ensemble Methods |
-| **Data Analysis** | Data Cleaning, Exploratory Data Analysis (EDA), Feature Engineering, Data Visualization |
-| **Model Development** | Scikit-learn, Random Forest, Decision Trees, Logistic Regression, Hyperparameter Tuning |
-| **NLP & LLMs** | Sentence Transformers, RAG Pipelines, Semantic Search, Vector Databases, FAISS |
-| **Backend Development** | FastAPI, REST APIs, Python Backend Development, Async Architecture |
-| **Full Stack Development** | React, Next.js, Python, JavaScript, TypeScript, API Integration |
-| **Databases** | MySQL, MongoDB, PostgreSQL, SQLite, Schema Design |
-| **Cloud Technologies** | Google Cloud Platform (GCP), Cloud Fundamentals, Serverless |
-| **Software Engineering** | OOP, REST APIs, Git, GitHub, Debugging, Code Review, Agile |
-| **Core Computer Science** | Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks |
-| **Currently Exploring** | Generative AI, Large Language Models, Agentic AI, Cloud-Native Applications |
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
