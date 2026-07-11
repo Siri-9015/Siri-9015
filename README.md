@@ -1,6 +1,6 @@
 <!-- ════════════════════════════════════════════════════════════════════ -->
 <!--                 PREMIUM GITHUB PROFILE README                      -->
-<!--         Dark Luxury · Purple / Indigo / Violet Theme               -->
+<!--         Dark Modern Minimalist · Purple / Indigo / Violet Theme               -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
 <!-- ═══════════════════════ 🎨 CAPSULE RENDER HEADER ═══════════════════════ -->
@@ -30,28 +30,6 @@
 </p>
 
 <p align="center">
-  <a href="mailto:likhithakillani0107@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/likhitha-siri-meghana-killani-8a62a8308">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Siri-9015">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.kaggle.com/likhithasirimeghana">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://portfolioassignment01.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-20BEFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Siri-9015&style=flat-square&color=7c3aed&label=Profile+Views"/>
   &nbsp;
   <img src="https://img.shields.io/github/followers/Siri-9015?style=flat-square&logo=github&color=6d28d9&labelColor=1e1b4b&label=Followers"/>
@@ -59,27 +37,16 @@
   <img src="https://img.shields.io/github/stars/Siri-9015?style=flat-square&logo=github&color=8b5cf6&labelColor=1e1b4b&label=Stars"/>
 </p>
 
+```text
+Passionate about building intelligent software that solves real-world problems.
+```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════ 👨‍💻 PROFESSIONAL SUMMARY ═══════════════════════ -->
 
 ## Professional Summary
 
-```text
-Passionate about building intelligent software that solves real-world problems.
-```
-
-I am a **Computer Science Engineering student** specializing in **Software Engineering, AI/ML, and Full Stack Development**. I design scalable applications, build intelligent backend systems, and develop end-to-end software solutions with a product engineering mindset. My goal is to engineer high-performance, AI-powered applications that solve real-world problems.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════ 💼 OPEN TO OPPORTUNITIES ═══════════════════════ -->
-
-## 💼 Open to Opportunities
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open_to-Software_Engineering_•_AI%2FML_•_Full_Stack_Internship_Opportunities-7c3aed?style=for-the-badge"/>
-</p>
+I am a Computer Science Engineering student specializing in Software Engineering, AI/ML, and Full Stack Development. I design scalable applications, build intelligent backend systems, and develop end-to-end software solutions with a product engineering mindset. My goal is to engineer high-performance, AI-powered applications that solve real-world problems.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -110,26 +77,6 @@ I am a **Computer Science Engineering student** specializing in **Software Engin
 <p align="center">
   <img src="https://skillicons.dev/icons?i=gcp,docker,git,github,linux,vscode,postman,figma&theme=dark"/>
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════ 🤖 AI & SOFTWARE ENGINEERING EXPERTISE ═══════════════════════ -->
-
-## AI & Software Engineering Expertise
-
-| Domain | Details |
-|:-------|:--------|
-| **Machine Learning** | Supervised Learning, Classification, Regression, Model Evaluation, Ensemble Methods |
-| **Data Analysis** | Data Cleaning, Exploratory Data Analysis (EDA), Feature Engineering, Data Visualization |
-| **Model Development** | Scikit-learn, Random Forest, Decision Trees, Logistic Regression, Hyperparameter Tuning |
-| **NLP & LLMs** | Sentence Transformers, RAG Pipelines, Semantic Search, Vector Databases, FAISS |
-| **Backend Development** | FastAPI, REST APIs, Python Backend Development, Async Architecture |
-| **Full Stack Development** | React, Next.js, Python, JavaScript, TypeScript, API Integration |
-| **Databases** | MySQL, MongoDB, PostgreSQL, SQLite, Schema Design |
-| **Cloud Technologies** | Google Cloud Platform (GCP), Cloud Fundamentals, Serverless |
-| **Software Engineering** | OOP, REST APIs, Git, GitHub, Debugging, Code Review, Agile |
-| **Core Computer Science** | Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks |
-| **Currently Exploring** | Generative AI, Large Language Models, Agentic AI, Cloud-Native Applications |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -171,17 +118,17 @@ An **AI-powered document assistant** that enables semantic question-answering ov
 ---
 
 <details>
-<summary><b>&nbsp;🌱&nbsp; CleanStreet — Smart City Civic Issue Platform</b></summary>
+<summary><b>&nbsp;🌱&nbsp; CleanStreet —  Civic Issue Reporting Platform</b></summary>
 <br>
 
 A **full-stack civic technology platform** that digitizes urban issue reporting, enabling citizens to submit geolocated complaints and allowing municipal authorities to track, assign, and resolve issues through an admin dashboard.
 
 | Dimension | Details |
 |-----------|---------|
-| **Stack** | HTML · CSS · JavaScript · Python · SQL |
+| **Stack** | HTML · CSS · JavaScript · Python · MongoDb |
 | **Program** | Developed as part of Infosys Springboard Internship 6.0 |
 | **Architecture** | Client-Server with RESTful communication |
-| **Database** | Relational (SQL-based complaint tracking) |
+| **Database** | MongoDb (NoSQL-based complaint tracking) |
 | **Scale** | Multi-user platform with role-based access (Citizen / Admin) |
 | **Impact** | Smart City solution improving citizen-authority communication |
 
@@ -329,23 +276,27 @@ A **responsive web application** showcasing advanced frontend engineering with C
 
 ## Let's Connect
 
+<
 <p align="center">
   <a href="mailto:likhithakillani0107@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/likhitha-siri-meghana-killani-8a62a8308">
+  &nbsp;
+  <a href="https://www.linkedin.com/in/likhitha-siri-meghana-killani-8a6a28308?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/Siri-9015">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.kaggle.com/likhithasirimeghana">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
+  <a href="https://portfolioassignment01.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-20BEFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -363,3 +314,33 @@ A **responsive web application** showcasing advanced frontend engineering with C
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:1e1b4b,25:312e81,50:4c1d95,75:6d28d9,100:7c3aed"/>
 </p>
+<!-- ═══════════════════════ 💼 OPEN TO OPPORTUNITIES ═══════════════════════ -->
+
+## 💼 Open to Opportunities
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_to-Software_Engineering_•_AI%2FML_•_Full_Stack_Internship_Opportunities-7c3aed?style=for-the-badge"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+
+<!-- ═══════════════════════ 🤖 AI & SOFTWARE ENGINEERING EXPERTISE ═══════════════════════ -->
+
+## AI & Software Engineering Expertise
+
+| Domain | Details |
+|:-------|:--------|
+| **Machine Learning** | Supervised Learning, Classification, Regression, Model Evaluation, Ensemble Methods |
+| **Data Analysis** | Data Cleaning, Exploratory Data Analysis (EDA), Feature Engineering, Data Visualization |
+| **Model Development** | Scikit-learn, Random Forest, Decision Trees, Logistic Regression, Hyperparameter Tuning |
+| **NLP & LLMs** | Sentence Transformers, RAG Pipelines, Semantic Search, Vector Databases, FAISS |
+| **Backend Development** | FastAPI, REST APIs, Python Backend Development, Async Architecture |
+| **Full Stack Development** | React, Next.js, Python, JavaScript, TypeScript, API Integration |
+| **Databases** | MySQL, MongoDB, PostgreSQL, SQLite, Schema Design |
+| **Cloud Technologies** | Google Cloud Platform (GCP), Cloud Fundamentals, Serverless |
+| **Software Engineering** | OOP, REST APIs, Git, GitHub, Debugging, Code Review, Agile |
+| **Core Computer Science** | Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks |
+| **Currently Exploring** | Generative AI, Large Language Models, Agentic AI, Cloud-Native Applications |
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
