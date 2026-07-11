@@ -1,6 +1,6 @@
 <!-- ════════════════════════════════════════════════════════════════════ -->
 <!--                 PREMIUM GITHUB PROFILE README                      -->
-<!--       Modern Luxury · Purple / Indigo / Violet Theme               -->
+<!--            Dark Purple / Indigo / Violet Theme               -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
 <!-- ═══════════════════════ 🎨 CAPSULE RENDER HEADER ═══════════════════════ -->
