@@ -57,25 +57,25 @@ I am a Computer Science Engineering student specializing in Software Engineering
 ### Languages
 
 <p align="center">
-  <img width="15%" src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,c&theme=dark"/>
+  <img width="25%" src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,c&theme=dark"/>
 </p>
 
 ### Frontend
 
 <p align="center">
-  <img width="10%" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&theme=dark"/>
+  <img width="25%" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&theme=dark"/>
 </p>
 
 ### Backend & Databases
 
 <p align="center">
-  <img width="25%" src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,mysql,mongodb,postgres,sqlite&theme=dark"/>
+  <img width="45%" src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,mysql,mongodb,postgres,sqlite&theme=dark"/>
 </p>
 
 ### Cloud, DevOps & Tooling
 
 <p align="center">
-  <img width="15%"src="https://skillicons.dev/icons?i=gcp,docker,git,github,linux,vscode,postman,figma&theme=dark"/>
+  <img width="35%"src="https://skillicons.dev/icons?i=gcp,docker,git,github,linux,vscode,postman,figma&theme=dark"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
