@@ -57,13 +57,13 @@ I am a Computer Science Engineering student specializing in Software Engineering
 ### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,c&theme=dark"/>
+  <img width="70%" src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,c&theme=dark"/>
 </p>
 
 ### Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&theme=dark"/>
+  <img width="70%" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&theme=dark"/>
 </p>
 
 ### Backend & Databases
@@ -75,7 +75,7 @@ I am a Computer Science Engineering student specializing in Software Engineering
 ### Cloud, DevOps & Tooling
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,docker,git,github,linux,vscode,postman,figma&theme=dark"/>
+  <img width="70%"src="https://skillicons.dev/icons?i=gcp,docker,git,github,linux,vscode,postman,figma&theme=dark"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
