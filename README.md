@@ -9,7 +9,13 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1e1b4b,25:312e81,50:4c1d95,75:6d28d9,100:7c3aed&text=Likhitha%20Siri%20Meghana%20Killani&fontColor=e0e7ff&fontSize=45&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=55&descSize=18&animation=fadeIn"/>
 </p>
 
-<!-- ═══════════════════════ 🏅 PROFESSIONAL BADGES ═══════════════════════ -->
+<!-- ═══════════════════════ ⌨️ TYPING SVG ═══════════════════════ -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Engineering+Scalable+Software+%7C+Building+Intelligent+Systems;AI+and+ML+%7C+Full+Stack+Development+%7C+Cloud+Architecture"/>
+</p>
+
+<!-- ══════════════════════ 🏅 PROFESSIONAL BADGES ═══════════════════════ -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20Engineering-4c1d95?style=flat-square&labelColor=1e1b4b"/>
