@@ -249,7 +249,7 @@ A **responsive web application** showcasing advanced frontend engineering with C
 
 <p align="center">
   <img
-    width="50%"
+    width="500px"
     src="https://streak-stats.demolab.com?user=Siri-9015&theme=midnight-purple&hide_border=true"
     alt="GitHub Streak"
   />
