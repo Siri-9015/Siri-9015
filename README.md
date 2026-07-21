@@ -1,40 +1,40 @@
 <!-- ════════════════════════════════════════════════════════════════════ -->
 <!--                 PREMIUM GITHUB PROFILE README                      -->
-<!--            Dark Purple / Indigo / Violet Theme               -->
+<!--            Orange / Sunset Theme               -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
 <!-- ═══════════════════════ 🎨 CAPSULE RENDER HEADER ═══════════════════════ -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1e1b4b,25:312e81,50:4c1d95,75:6d28d9,100:7c3aed&text=Likhitha%20Siri%20Meghana%20Killani&fontColor=e0e7ff&fontSize=45&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=55&descSize=18&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:431407,25:7c2d12,50:9a3412,75:c2410c,100:ea580c&text=Likhitha%20Siri%20Meghana%20Killani&fontColor=ffedd5&fontSize=45&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=55&descSize=18&animation=fadeIn"/>
 </p>
 
 <!-- ═══════════════════════ ⌨️ TYPING SVG ═══════════════════════ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Engineering+Scalable+Software+%7C+Building+Intelligent+Systems;AI+and+ML+%7C+Full+Stack+Development+%7C+Cloud+Architecture"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=FB923C&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Engineering+Scalable+Software+%7C+Building+Intelligent+Systems;AI+and+ML+%7C+Full+Stack+Development+%7C+Cloud+Architecture"/>
 </p>
 
 <!-- ══════════════════════ 🏅 PROFESSIONAL BADGES ═══════════════════════ -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20Engineering-4c1d95?style=flat-square&labelColor=1e1b4b"/>
+  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20Engineering-9a3412?style=flat-square&labelColor=431407"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/CGPA-8.1%20%2F%2010-7c3aed?style=flat-square&labelColor=1e1b4b"/>
+  <img src="https://img.shields.io/badge/CGPA-8.1%20%2F%2010-ea580c?style=flat-square&labelColor=431407"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Google%20Cloud-Learner-4285F4?style=flat-square&logo=googlecloud&logoColor=white&labelColor=1e1b4b"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-Learner-4285F4?style=flat-square&logo=googlecloud&logoColor=white&labelColor=431407"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-6d28d9?style=flat-square&labelColor=1e1b4b"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-c2410c?style=flat-square&labelColor=431407"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D_Hyderabad%2C_India-1e1b4b?style=flat-square"/>
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D_Hyderabad%2C_India-431407?style=flat-square"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Siri-9015&style=flat-square&color=7c3aed&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Siri-9015&style=flat-square&color=ea580c&label=Profile+Views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/Siri-9015?style=flat-square&logo=github&color=6d28d9&labelColor=1e1b4b&label=Followers"/>
+  <img src="https://img.shields.io/github/followers/Siri-9015?style=flat-square&logo=github&color=c2410c&labelColor=431407&label=Followers"/>
   &nbsp;
-  <img src="https://img.shields.io/github/stars/Siri-9015?style=flat-square&logo=github&color=8b5cf6&labelColor=1e1b4b&label=Stars"/>
+  <img src="https://img.shields.io/github/stars/Siri-9015?style=flat-square&logo=github&color=f97316&labelColor=431407&label=Stars"/>
 </p>
 
 ```text
@@ -109,7 +109,7 @@ An **AI-powered document assistant** that enables semantic question-answering ov
 
 <p>
   <a href="https://github.com/Siri-9015/SEFS">
-    <img src="https://img.shields.io/badge/Repository-SEFS-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Repository-SEFS-ea580c?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -140,7 +140,7 @@ A **full-stack civic technology platform** that digitizes urban issue reporting,
 
 <p>
   <a href="https://github.com/springboardmentor211/CleanStreet_Group1">
-    <img src="https://img.shields.io/badge/Repository-CleanStreet__Group1-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Repository-CleanStreet__Group1-ea580c?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -171,7 +171,7 @@ A **responsive web application** showcasing advanced frontend engineering with C
 
 <p>
   <a href="https://github.com/Siri-9015/Interactive-Recipe-Card">
-    <img src="https://img.shields.io/badge/Repository-Interactive--Recipe--Card-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Repository-Interactive--Recipe--Card-ea580c?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -202,15 +202,15 @@ A **responsive web application** showcasing advanced frontend engineering with C
 ### NPTEL
 
 <p>
-  <img src="https://img.shields.io/badge/NPTEL-Programming_in_Java-1e1b4b?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NPTEL-Programming_in_Java-431407?style=for-the-badge"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/NPTEL-Database_Management_Systems-312e81?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NPTEL-Database_Management_Systems-7c2d12?style=for-the-badge"/>
 </p>
 
 ### Workshops & Hackathons
 
 <p>
-  <img src="https://img.shields.io/badge/AI_%26_ML_Workshop-Hackathon_Participation-6d28d9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI_%26_ML_Workshop-Hackathon_Participation-c2410c?style=for-the-badge"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -245,7 +245,7 @@ A **responsive web application** showcasing advanced frontend engineering with C
 
 <p align="center">
 
-  <img width="49%" src="https://streak-stats.demolab.com?user=Siri-9015&theme=midnight-purple&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=e0e7ff&sideNums=e0e7ff&dates=6b7280" alt="GitHub Streak"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=Siri-9015&theme=tokyo-night&hide_border=true&background=0d1117&stroke=ea580c&ring=fb923c&fire=fdba74&currStreakLabel=fb923c&sideLabels=c9d1d9&currStreakNum=ffedd5&sideNums=ffedd5&dates=6b7280" alt="GitHub Streak"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -255,7 +255,7 @@ A **responsive web application** showcasing advanced frontend engineering with C
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siri-9015&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c084fc&area_color=4c1d95&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siri-9015&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=fb923c&line=ea580c&point=fdba74&area_color=9a3412&area=true" alt="Contribution Graph"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -311,5 +311,5 @@ A **responsive web application** showcasing advanced frontend engineering with C
 
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:1e1b4b,25:312e81,50:4c1d95,75:6d28d9,100:7c3aed"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:431407,25:7c2d12,50:9a3412,75:c2410c,100:ea580c"/>
 </p>
