@@ -244,8 +244,7 @@ A **responsive web application** showcasing advanced frontend engineering with C
 ## GitHub Analytics
 
 <p align="center">
-
-  <img width="49%" src="https://streak-stats.demolab.com?user=Siri-9015&theme=tokyo-night&hide_border=true&background=0d1117&stroke=2563eb&ring=60a5fa&fire=93c5fd&currStreakLabel=60a5fa&sideLabels=c9d1d9&currStreakNum=dbeafe&sideNums=dbeafe&dates=6b7280" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Siri-9015&theme=tokyo-night&hide_border=true&background=0d1117&stroke=2563eb&ring=60a5fa&fire=60a5fa&currStreakLabel=60a5fa&sideLabels=93c5fd&currStreakNum=dbeafe&sideNums=dbeafe&dates=93c5fd" alt="GitHub Streak"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
