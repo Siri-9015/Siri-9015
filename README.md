@@ -313,7 +313,6 @@ A **responsive web application** showcasing advanced frontend engineering with C
 <br>
 
 
-
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:172554,25:1e3a8a,50:1e40af,75:1d4ed8,100:2563eb"/>
 </p>
