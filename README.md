@@ -1,4 +1,3 @@
-
 <!-- ════════════════════════════════════════════════════════════════════ -->
 <!--                 PREMIUM GITHUB PROFILE README                      -->
 <!--            Sleek Blue / Ocean Theme               -->
@@ -243,7 +242,6 @@ A **responsive web application** showcasing advanced frontend engineering with C
 <!-- ═══════════════════════ 📊 GITHUB ANALYTICS ═══════════════════════ -->
 
 ## GitHub Analytics
-
 
 <p align="center">
   <img
