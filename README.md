@@ -257,11 +257,7 @@ A **responsive web application** showcasing advanced frontend engineering with C
 ## Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siri-9015&theme=github_dark"
-    alt="Contribution Activity"
-    width="100%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Siri-9015&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="100%" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
