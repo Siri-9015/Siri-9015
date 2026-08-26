@@ -259,8 +259,9 @@ A **responsive web application** showcasing advanced frontend engineering with C
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Siri-9015&theme=github-compact&hide_border=true"
-    alt="Contribution Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Siri-9015&theme=tokyo-night&hide_border=true"
+    alt="Contribution Activity Graph"
+    width="100%"
   />
 </p>
 
