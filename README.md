@@ -244,11 +244,9 @@ A **responsive web application** showcasing advanced frontend engineering with C
 ## GitHub Analytics
 
 <p align="center">
-  <img
-    width="500px"
+  <img width="500px"
     src="https://streak-stats.demolab.com?user=Siri-9015&theme=midnight-purple&hide_border=true"
-    alt="GitHub Streak"
-  />
+    alt="GitHub Streak"/>
   
 </p>
 
@@ -261,6 +259,7 @@ A **responsive web application** showcasing advanced frontend engineering with C
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siri-9015&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=60a5fa&line=2563eb&point=93c5fd&area_color=1e40af&area=true" alt="Contribution Graph"/>
 </p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
