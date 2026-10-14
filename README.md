@@ -31,7 +31,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Siri-9015&style=flat-square&color=2563eb&label=Profile+Views"/>
-</p>
+  &nbsp;
   <img src="https://img.shields.io/github/followers/Siri-9015?style=flat-square&logo=github&color=1d4ed8&labelColor=172554&label=Followers"/>
   &nbsp;
   <img src="https://img.shields.io/github/stars/Siri-9015?style=flat-square&logo=github&color=3b82f6&labelColor=172554&label=Stars"/>
