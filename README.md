@@ -28,9 +28,8 @@
   &nbsp;
   <img src="https://img.shields.io/badge/%F0%9F%93%8D_Hyderabad%2C_India-172554?style=flat-square"/>
 </p>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Siri-9015&label=PROFILE+VIEWS&color=2563eb&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Siri-9015&label=PROFILE%20VIEWS&color=2563eb&style=flat-square" alt="Profile Views" />
 </p>
   <img src="https://img.shields.io/github/followers/Siri-9015?style=flat-square&logo=github&color=1d4ed8&labelColor=172554&label=Followers"/>
   &nbsp;
