@@ -30,7 +30,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Siri-9015&label=PROFILE%20VIEWS&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Siri-9015&label=PROFILE%20VIEWS&color=blue&style=flat" 
+    alt="Profile Views" />
   &nbsp;
   
 <img src="https://img.shields.io/github/followers/Siri-9015?style=flat-square&logo=github&color=1d4ed8&labelColor=172554&label=Followers" alt="GitHub Followers" />
